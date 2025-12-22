@@ -1,6 +1,15 @@
 # Building Insightful Reports
 
-Write a lead statement and suggest potential supporting evidence and resulting recommendation for each the following KPIs:
+This exercise demonstrates how raw metrics can be transformed into **clear business insights and actionable recommendations**.
+Rather than reporting numbers in isolation, each KPI is treated as a **business question** that decision-makers care about.
+
+The structure used throughout this activity follows the **Business Insight Creation Process** taught in the Digital Analytics course:
+
+**1. Lead Statement** – What does the KPI really mean in plain business language?
+
+**2. Supporting Evidence** – What data and context explain this result?
+
+**3. Recommendation** – What actions should the business take next?
 
 ---
 
@@ -11,3 +20,14 @@ Write a lead statement and suggest potential supporting evidence and resulting r
 | Social Media Lead Ratio is 5% | Only 5 out of every 100 social media visitors become leads, indicating weak conversion from social traffic.                                            | Social channel reports showing high engagement but low lead submissions, landing page conversion rates for social traffic, comparison with email or paid search lead ratios.                                                           | Short term: Improve social landing pages with clearer CTAs. Medium term: Test lead-focused campaigns (e.g., gated content, contests). Long term: Refine audience targeting and align social messaging more closely with user intent.      |
 | Share of impression is 10%    | The brand is visible in only 1 out of 10 potential ad impressions, limiting reach and awareness in competitive markets.                                | Paid search impression share reports, keyword-level analysis showing lost impressions due to budget or rank, comparison to top competitors.                                                                                            | Short term: Increase bids on high-performing keywords. Medium term: Improve Quality Score through better ad relevance and landing pages. Long term: Expand keyword strategy and allocate higher budget to priority campaigns.             |
 | Email conversion rate is 2%   | Only 2% of email recipients complete a desired action, indicating missed opportunities to drive conversions.                                           | Email campaign performance data, open vs. click vs. conversion funnel, A/B test results on subject lines or CTAs, comparison to historical performance.                                                                                | Short term: Improve CTAs and simplify email messaging. Medium term: Segment email lists based on user behavior. Long term: Implement personalized and automated email journeys.                                                           |
+
+---
+
+**💡 Key Takeaways**
+
+- Metrics alone do not create value — **insight and context do**
+- Lead statements translate analytics into **language executives understand**
+- Supporting evidence explains **why performance looks the way it does**
+- Recommendations focus on **action**, not just observation
+
+This approach aligns with best practices for **executive dashboards and analyst reporting**, ensuring that insights lead directly to better decision-making.
