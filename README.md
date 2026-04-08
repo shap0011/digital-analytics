@@ -1,5 +1,7 @@
 # Building Insightful Reports
 
+![KPI Dashboard](./assets/./kpi-dashboard.gif)
+
 This exercise demonstrates how raw metrics can be transformed into **clear business insights and actionable recommendations**.
 Rather than reporting numbers in isolation, each KPI is treated as a **business question** that decision-makers care about.
 
